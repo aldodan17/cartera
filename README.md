@@ -24,7 +24,11 @@ Control de versiones: Git & GitHub
 Aquí encuentras los proyectos más completos que he desarrollado recientemente:
 
 Proyecto	Descripción	Link
-🛒 Análisis de Comportamiento de Compra	Limpieza completa, análisis exploratorio, segmentación y patrones de clientes para decisiones de marketing.	(link al repositorio)
-🧪 Test A/B para tienda online	Priorización ICE/RICE, limpieza, detección de anomalías y pruebas estadísticas para evaluar impacto en conversión.	(link)
+
+🛒 Análisis de Comportamiento de Compra	Limpieza completa, análisis exploratorio, segmentación y patrones de clientes para decisiones de marketing.	
+([link](https://github.com/aldodan17/shopping_behavior_updated)
+🧪 Test A/B para tienda online	Priorización ICE/RICE, limpieza, detección de anomalías y pruebas estadísticas para evaluar impacto en conversión.	
+([link](https://github.com/aldodan17/P10-Test-A-B))
 📊 Análisis SQL + Prueba de Hipótesis	Consultas SQL, análisis de barrios con mayor actividad y pruebas estadísticas en Python.	(link)
-…	Más proyectos dentro del repositorio Portfolio	(link)
+…	Más proyectos dentro del repositorio Portfolio	
+([link](https://github.com/aldodan17/SQL)
