@@ -34,3 +34,6 @@ Proyecto	Descripción	Link
 📊 Análisis SQL + Prueba de Hipótesis	Consultas SQL, análisis de barrios con mayor actividad y pruebas estadísticas en Python.	
 …	Más proyectos dentro del repositorio Portfolio	
 ([link](https://github.com/aldodan17/SQL)
+
+📊 Análisis completo de tráfico, compras y gasto publicitario para evaluar la rentabilidad de cada canal. Incluye cohortes, cálculo de LTV, CAC y ROMI, detección de patrones de comportamiento y rendimiento por dispositivo. El objetivo fue identificar qué fuentes generan usuarios más valiosos y optimizar la inversión en marketing.
+([link](https://github.com/aldodan17/P9-Showz)
